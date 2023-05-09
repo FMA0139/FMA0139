@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMA0139&show_icons=true&theme=transparent)
+<figure><embed src="https://wakatime.com/share/@5b17214a-a560-41ba-a482-29038e0ca1d4/bef431cc-6a31-40e5-af60-5aea013e7a39.svg"></embed></figure>
